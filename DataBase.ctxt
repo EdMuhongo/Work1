@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=DataBase(int)
+comment1.params=
+comment1.target=void\ addIt()
+comment2.params=id\ ln\ fn
+comment2.target=void\ addIt(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ findIt()
+comment4.params=
+comment4.target=int\ deleteIt()
+comment5.params=theArray
+comment5.target=void\ ListAscending(IndexArray)
+comment6.params=theArray
+comment6.target=void\ ListDescending(IndexArray)
+comment7.params=
+comment7.target=java.lang.String\ printit()
+numComments=8

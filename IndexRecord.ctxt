@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=IndexRecord()
+comment1.params=s\ w
+comment1.target=IndexRecord(java.lang.String,\ int)
+comment2.params=otherRecord
+comment2.target=int\ compareTo(IndexRecord)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=int\ getWhere()
+comment5.params=
+comment5.target=java.lang.String\ getKey()
+numComments=6

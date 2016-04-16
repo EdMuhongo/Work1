@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=IndexArray()
+comment1.params=size
+comment1.target=IndexArray(int)
+comment2.params=val
+comment2.target=void\ Insert(IndexRecord)
+comment3.params=key
+comment3.target=int\ Search(IndexRecord)
+comment4.params=key
+comment4.target=int\ Delete(IndexRecord)
+numComments=5
